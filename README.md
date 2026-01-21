@@ -11,3 +11,12 @@ features to add:
     comparision of what you actually uploaded and what you recommended(generated picture for reference)
     or just state on what happens when you use what we recommend and state the issues(redness or pimples or allegery clearly)
 how about adding a chatbot????
+
+
+1. Upload Image
+2. ML predicts corrector
+3. Results shown
+4. User clicks: “Safety & Skin Guidance”
+5. Assistant asks relevant questions
+6. Recommendation is refined
+
