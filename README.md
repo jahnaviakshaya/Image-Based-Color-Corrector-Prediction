@@ -20,3 +20,19 @@ how about adding a chatbot????
 5. Assistant asks relevant questions
 6. Recommendation is refined
 
+
+
+ML MODEL:
+Image
+ ↓
+Face detection
+ ↓
+Region extraction
+ ↓
+Feature extraction
+ ↓
+Concern classification
+ ↓
+Severity scoring
+
+
